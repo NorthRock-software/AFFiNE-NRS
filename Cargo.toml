@@ -56,7 +56,7 @@ symphonia              = { version = "0.5", features = ["all", "opt-simd"] }
 text-splitter          = "0.24"
 thiserror              = "2"
 tiktoken-rs            = "0.6"
-tokio                  = "1.37"
+tokio                  = "1.44"
 tree-sitter            = { version = "0.25" }
 tree-sitter-c          = { version = "0.23" }
 tree-sitter-c-sharp    = { version = "0.23" }
