@@ -21,7 +21,7 @@
     "@toeverything/theme": "^1.1.12",
     "@types/lodash-es": "^4.17.12",
     "lit": "^3.2.0",
-    "lodash-es": "^4.17.21",
+    "lodash-es": "^4.17.23",
     "rxjs": "^7.8.1"
   },
   "exports": {
